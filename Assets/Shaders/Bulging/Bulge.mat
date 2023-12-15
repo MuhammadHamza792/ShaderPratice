@@ -50,10 +50,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _BulgePower: 0.22
-    - _BulgeWidth: 4.8
+    - _BulgePower: 0.15
+    - _BulgeWidth: 6.56
     - _Extrude: 0.2
-    - _Panner: 0.965
+    - _Panner: 0.876
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:

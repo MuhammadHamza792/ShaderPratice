@@ -39,12 +39,12 @@ Material:
     m_Floats:
     - _BUILTIN_QueueControl: 0
     - _BUILTIN_QueueOffset: 0
-    - _GridThickness: 0.14
+    - _GridThickness: 0.27
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Transparent: 1
     m_Colors:
-    - _CellSize: {r: 1.62, g: 1.28, b: 0, a: 0}
+    - _CellSize: {r: 1.5, g: 1.5, b: 0, a: 0}
     - _Quadrant: {r: 1, g: 1, b: 0, a: 0}
     - _QuadrantThickness: {r: 1, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
